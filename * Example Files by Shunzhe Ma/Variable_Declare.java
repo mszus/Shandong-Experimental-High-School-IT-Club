@@ -1,14 +1,25 @@
 
 public class DeclareAVariable {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 	// TODO Auto-generated method stub
-	int year = 2017;
+        String name = Frances;
+	String gender = Female;
+        int yearComing = 2017;
+	String[] feeling = {"Cool", " Exciting", " Fantastic", " and Lovely"}
+	//String parnter = "Sunny";
 	//Int is used to declear a number variable
-        String a = " is ";
-        //string is used to declear a word variable
-        System.out.print(year + a + "coming!");
-	//Output will be 2017 is coming!
+	
+        String combination = gender + name + "wants a" ;
+	for(int item:feeling)
+	{
+		combination+=item;
+	}
+        combination+= yearComing.
+		
+	System.out.print(combination);
+		
 	}
 
 }
