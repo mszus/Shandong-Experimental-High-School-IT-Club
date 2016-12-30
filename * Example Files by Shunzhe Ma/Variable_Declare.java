@@ -4,13 +4,13 @@ public class DeclareAVariable {
 	{
 	// TODO Auto-generated method stub
         String name = " Frances";
-	String gender = "Female";
+	String char = "Cute";
         int yearComing = 2017;
 	String[] feeling = {"Cool", " Exciting", " Fantastic", " and Lovely "};
 	//String parnter = "Sunny";
 	//Int is used to declear a number variable
 	
-        String combination = gender + name + "wants a " ;
+        String combination = char + name + "wants a " ;
 	for(String item:feeling)
 	{
 		combination+=item;
