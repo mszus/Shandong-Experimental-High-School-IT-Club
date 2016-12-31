@@ -1,3 +1,8 @@
+//Coded by Kevin Cui
+//Marked as 'Error' by Shunzhe Ma
+//Error: Syntax error
+//Testings Terminated
+
 public class DeclareAVariable {
 
 	public static void main(String[] args) 
