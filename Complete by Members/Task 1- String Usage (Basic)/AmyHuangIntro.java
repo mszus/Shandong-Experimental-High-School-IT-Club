@@ -1,3 +1,8 @@
+//Coded by Amy Huang
+//Marked as 'checked' by Shunzhe Ma
+//Compiled Successfully in Java
+//Passed Testings
+
 public class DeclareAVariable {
 
 	public static void main(String[] args) 
