@@ -6,7 +6,7 @@ public class DeclareAVariable {
         String name = " Alan ";
 	String like = "tall heavy";
         int yearComing = 2017;
-	String[] feeling = {"Cool", " Exciting", " Fantastic", " and happy "};
+	String[] feeling = {"Handsome", " Exciting", " Beautiful", " and happy "};
 	//String parnter = "Sunny";
 	//Int is used to declear a number variable
 	
