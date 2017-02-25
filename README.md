@@ -12,6 +12,7 @@
 | What's cloud computing and big data?  | December 27th, 2016  | This is a video lacture. | Noop |  Shunzhe Ma |
 | #Upcoming# How to use Github to work with a team  | February 28th, 2017  | This is a non-coding lacture. | Noop |  Shunzhe Ma |
 | #Upcoming# Banking System (If-Else statement, Classes)  | February 28th, 2017  | [Templete File](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/blob/master/*%20Example%20Files%20by%20Shunzhe%20Ma/BankingSyS.java) | Coming Soon... |  Shunzhe Ma |
+| #Upcoming# Check your understanding. Group Quiz!  | Pending...  | This is a quiz. | Pending... |  Shunzhe Ma |
 
 ### Club Schedule
 
