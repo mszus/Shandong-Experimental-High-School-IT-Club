@@ -20,7 +20,7 @@
 | ------------- |:-------------:| :-----:| :-----:|
 | Basic Java Courses      | School Computer Lab | Every Wednesday Afternoon | Noop |
 | Swift and App Project     | School Computer Lab  | Flexible      |   NO |
-| Learn Swift Programming   | Jinan Apple Store    | Coming Very Soon      |   NO |
+| Learn Swift Programming   | Jinan Apple Store    | Coming Very Soon      |   Communicating with Jinan Apple Store |
 | Apple Store Internship    | Pending   | Pending      |   NO |
 
 @IT Club is founded by Shunzhe Ma
