@@ -10,7 +10,8 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Introduction to Java  | December 27th, 2016  | Every club member knows what Java programming is and all of them wrote 'Hello World' java program by themselves [Templete File](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/blob/master/*%20Example%20Files%20by%20Shunzhe%20Ma/HelloWorld.java) | [Club Members' work](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/tree/master/Complete%20by%20Members/Task%201-%20String%20Usage%20(Basic))|  Shunzhe Ma |
 | What's cloud computing and big data?  | December 27th, 2016  | This is a video lacture. | Noop |  Shunzhe Ma |
-| #Upcoming# Banking System (If-Else statement, Classes)  | December 27th, 2016  | [Templete File](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/blob/master/*%20Example%20Files%20by%20Shunzhe%20Ma/BankingSyS.java) | Coming Soon... |  Shunzhe Ma |
+| #Upcoming# How to use Github to work with a team  | February 28th, 2017  | This is a non-coding lacture. | Noop |  Shunzhe Ma |
+| #Upcoming# Banking System (If-Else statement, Classes)  | February 28th, 2017  | [Templete File](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/blob/master/*%20Example%20Files%20by%20Shunzhe%20Ma/BankingSyS.java) | Coming Soon... |  Shunzhe Ma |
 
 ### Club Schedule
 
