@@ -13,7 +13,7 @@
 
 ### Previous Club Activities
 
-| Activity  | Date | Note & Link |
+| Activity  | Date | Note & Link | Club Members' Work |
 | ------------- | ------------- | ------------- |
-| Introduction to Java  | December 27th, 2016  | Every club member knows what Java programming is and all of them wrote 'Hello World' java program by themselves [Templete File](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/blob/master/*%20Example%20Files%20by%20Shunzhe%20Ma/HelloWorld.java) [Club Members' work](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/tree/master/Complete%20by%20Members/Task%201-%20String%20Usage%20(Basic))|
-| What's cloud computing and big data?  | December 27th, 2016  | Noop |
+| Introduction to Java  | December 27th, 2016  | Every club member knows what Java programming is and all of them wrote 'Hello World' java program by themselves [Templete File](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/blob/master/*%20Example%20Files%20by%20Shunzhe%20Ma/HelloWorld.java) | [Club Members' work](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/tree/master/Complete%20by%20Members/Task%201-%20String%20Usage%20(Basic))|
+| What's cloud computing and big data?  | December 27th, 2016  | This is a video lacture. | Noop |
