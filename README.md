@@ -13,10 +13,12 @@
 
 ### Club Schedule
 
-| Activity        | Scheduled Time           | Additional Information  |
+| Activity        | Scheduled Time  | Location        | Additional Information  |
 | ------------- |:-------------:| -----:|
-| Basic Java Courses      | Every Wednesday Afternoon | Noop |
-| Swift and App Project      | Flexible      |   NO |
+| Basic Java Courses      | School Computer Lab | Every Wednesday Afternoon | Noop |
+| Swift and App Project     | School Computer Lab  | Flexible      |   NO |
+| Learn Swift Programming   | Jinan Apple Store    | Coming Very Soon      |   NO |
+| Apple Store Internship    | Pending   | Pending      |   NO |
 
 @IT Club is founded by Shunzhe Ma
 ; managed by Shunzhe Ma and Ziyao Zhang.
