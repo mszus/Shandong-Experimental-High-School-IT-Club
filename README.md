@@ -17,3 +17,6 @@
 | ------------- |:-------------:| -----:|
 | Basic Java Courses      | Every Wednesday Afternoon | Noop |
 | Swift and App Project      | Flexible      |   NO |
+
+@IT Club is founded by [I'm an inline-style link](https://www.google.com)
+; managed by Shunzhe Ma and Ziyao Zhang.
