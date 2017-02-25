@@ -13,7 +13,7 @@
 
 ### Club Schedule
 
-| Activity        | Scheduled Time  | Location        | Additional Information  |
+| Activity        | Location  | Scheduled Time        | Additional Information  |
 | ------------- |:-------------:| :-----:| :-----:|
 | Basic Java Courses      | School Computer Lab | Every Wednesday Afternoon | Noop |
 | Swift and App Project     | School Computer Lab  | Flexible      |   NO |
