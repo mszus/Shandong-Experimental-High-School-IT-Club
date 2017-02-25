@@ -14,7 +14,7 @@
 ### Club Schedule
 
 | Activity        | Scheduled Time  | Location        | Additional Information  |
-| ------------- |:-------------:| -----:| -----:|
+| ------------- |:-------------:| :-----:| :-----:|
 | Basic Java Courses      | School Computer Lab | Every Wednesday Afternoon | Noop |
 | Swift and App Project     | School Computer Lab  | Flexible      |   NO |
 | Learn Swift Programming   | Jinan Apple Store    | Coming Very Soon      |   NO |
