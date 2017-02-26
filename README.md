@@ -13,7 +13,7 @@
 | #Upcoming# How to use Github to work with a team  | February 28th, 2017  | This is a non-coding lecture. | Noop |  Shunzhe Ma |
 | #Upcoming# Banking System (If-Else statement, Classes)  | February 28th, 2017  | [Templete File](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/blob/master/*%20Example%20Files%20by%20Shunzhe%20Ma/BankingSyS.java) | Coming Soon... |  Shunzhe Ma |
 | #Upcoming# Check your understanding. Group Quiz!  | Pending...  | This is a quiz. | Pending... |  Shunzhe Ma |
-| #Upcoming# Loops in Java | Mar. 7 | Pending... | Pending... | Ziyao Zhang |
+| #Upcoming# Loops in Java | March 7th, 2017 | Pending... | Pending... | Ziyao Zhang |
 
 
 ### Club Schedule
