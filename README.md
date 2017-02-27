@@ -7,7 +7,7 @@
    
 ![Alt text](https://raw.githubusercontent.com/shunzhema/Shandong-Experimental-High-School-IT-Club/master/IMG_1993.JPG "IT Club Members")
 
-#### Due to school policy, check-in will be required upon entering computer lab.
+#### For Club Members: Due to school policy, check-in will be required upon entering computer lab.
 
 ### Previous & Upcoming Club Activities
 
